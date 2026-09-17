@@ -37,7 +37,7 @@
 </p>  
 
 <p align="center">
-  <img src= "https://i.pinimg.com/originals/99/7c/72/997c72526b1765a287c3f2a5b53c861e.gif" width="100%">
+  <img src= "https://i.pinimg.com/originals/99/7c/72/997c72526b1765a287c3f2a5b53c861e.gif" width="70%">
 </p>
 
 -----
