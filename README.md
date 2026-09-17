@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/lautaro-del-campo-9086a4386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="30" width="40" /></a>
  
  
-  <a href="https://www.instagram.com/lautaa_dc/" target="blank"><img align="center" src="IMG/Instagram_logo_2016.svg.webp" alt="josue_rojasv" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/lautaa_dc/" target="blank"><img align="center" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/3840px-Instagram_logo_2016.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" alt="" height="30" width="40" /></a>
 </p>
 
 <!-- LANGUAGES AND TOOLS -->
