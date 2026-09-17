@@ -4,8 +4,7 @@
 
 <hr>
 <!-- MAIN PHRASE SECTION -->
-<span align="center">``
-  <span>
+<span align="center">
     <h1 align="center"><em> Lautaro del Campo </em>
       <span align="center"></span>
     </h1>
