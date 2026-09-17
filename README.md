@@ -1,4 +1,6 @@
-[![Welcome to my profile]https://i.pinimg.com/originals/f8/b4/d0/f8b4d0ddedae91a68a6cfa78814843](https://i.pinimg.com/originals/f8/b4/d0/f8b4d0ddedae91a68a6cfa788148436b.gif)6b
+<p align="center">
+  <img src="https://i.pinimg.com/originals/f8/b4/d0/f8b4d0ddedae91a68a6cfa788148436b.gif" width="100%">
+</p>
 
 <hr>
 <!-- MAIN PHRASE SECTION -->
