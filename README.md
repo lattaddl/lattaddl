@@ -18,6 +18,7 @@
     <li>💻 Actualmente estoy trabajando en <strong>Desarrollo web</strong></li>
     <li>🔎 Actualmente estoy aprendiendo sobre <strong>Ciberseguridad</strong></li>
     <li>✉️ Me podes contactar por <strong>lautarodelcampo8@gmail.com</strong></li>
+    <li>📌Actualmente resido en la hermosa ciudad de <strong>Chascomús</strong></li>
   </ul>
 
 <!-- CONNECTION -->
