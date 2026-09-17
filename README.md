@@ -6,9 +6,9 @@
 <!-- MAIN PHRASE SECTION -->
 <span align="center">``
   <span>
-    <h4 align="center">"<em>Lautaro del Campo</em>"
+    <h1 align="center"><em> Lautaro del Campo </em>
       <span align="center"></span>
-    </h4>
+    </h1>
 </span>
 
 <!-- ABOUT YOU -->
@@ -22,7 +22,7 @@
 
 <!-- CONNECTION -->
 <hr>      
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Contactate conmigo mediante:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/lautaro-del-campo-9086a4386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="60" width="60" /></a>          <a href="https://www.instagram.com/lautaa_dc/" target="blank"><img align="center" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/3840px-Instagram_logo_2016.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" alt="" height="60" width="60" /></a>
 </p>
