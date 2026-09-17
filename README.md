@@ -12,7 +12,8 @@
 
 <!-- ABOUT YOU -->
 <hr>
-<h3 align="center">Me gusta el desarrollo web, la creación de sistemas, el debuggin, control de versiones, etc. </h3>
+<h3 align="center">
+  Me gusta el desarrollo web, la creación de sistemas, el debuggin, control de versiones, etc. </h3>
   <ul>
     <li>💻 Actualmente estoy trabajando en <strong>Desarrollo web</strong></li>
     <li>🔎 Actualmente estoy aprendiendo sobre <strong>Ciberseguridad</strong></li>
