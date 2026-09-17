@@ -23,8 +23,8 @@
 <hr>      
 <h3 align="center">Contactate conmigo mediante:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/lautaro-del-campo-9086a4386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="60" width="60" /></a>          <a href="https://www.instagram.com/lautaa_dc/" target="blank"><img align="center" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/3840px-Instagram_logo_2016.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" alt="" height="60" width="60" /></a>
-</p>
+  <a href="https://www.linkedin.com/in/lautaro-del-campo-9086a4386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="60" width="60" /></a>          <a href="https://www.instagram.com/lautaa_dc/" target="blank"><img align="center" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/3840px-Instagram_logo_2016.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" alt="" height="60" width="60" /></a>    <a href="https://discord.gg/82QKrqZZJf" target=blank><img align="center" src="
+</p>https://static.vecteezy.com/system/resources/thumbnails/055/331/330/small/rectangle-discord-icon-logo-symbol-free-png.png" alt= "" height="60" width="60" /> </a>
 
 <!-- LANGUAGES AND TOOLS -->
 <hr>
